@@ -1,4 +1,14 @@
 {
+  "name": "ygt/entity-generator-orm",
+  "description": "entity generator from db and optional ORM",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Yigit",
+      "email": "tahayigityilmaz@gmail.com"
+    }
+  ],
     "require": {
         "vlucas/phpdotenv": "^3.4",
         "illuminate/database": "^5.8",
