@@ -23,5 +23,16 @@
     },
     "require-dev": {
         "phpunit/phpunit": "8.3"
+    },
+  
+  "name": "ygt/entity-generator-orm",
+  "description": "entity generator from db and optional ORM",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Yigit",
+      "email": "tahayigityilmaz@gmail.com"
     }
+  ]
 }
