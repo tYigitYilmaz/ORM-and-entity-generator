@@ -1,4 +1,4 @@
-# ORM Template and Generator
+# ORM and Entity Generator
 
 
 ### Available methods and implementations
