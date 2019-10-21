@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ed10071-25f5-48fa-8e98-25666612d7e2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/some-service/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="db-generator" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="eb11b05a-1c06-4562-a973-029b694de302" name="localhost" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
+    <include_path>
+      <path value="$PROJECT_DIR$/some-service/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/some-service/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/some-service/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/some-service/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/some-service/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/some-service/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/some-service/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/some-service/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/some-service/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/some-service/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/some-service/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/some-service/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/some-service/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/some-service/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/some-service/vendor/google/apiclient" />
+      <path value="$PROJECT_DIR$/some-service/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/some-service/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/some-service/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/some-service/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/some-service/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/some-service/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/some-service/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/some-service/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/some-service/vendor/facebook/graph-sdk" />
+      <path value="$PROJECT_DIR$/some-service/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/some-service/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/some-service/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/some-service/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/some-service/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/some-service/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/some-service/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/some-service/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/some-service/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/some-service/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/some-service/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/some-service/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/some-service/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/some-service/vendor/composer" />
+      <path value="$PROJECT_DIR$/some-service/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/some-service/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/some-service/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/some-service/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/some-service/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/some-service/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/some-service/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/some-service/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/some-service/vendor/container-interop/container-interop" />
+      <path value="$PROJECT_DIR$/some-service/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/some-service/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/some-service/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/some-service/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/some-service/vendor/rapidwebltd/php-google-contacts-v3-api" />
+      <path value="$PROJECT_DIR$/some-service/vendor/phar-io/version" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1S0sUivfq2TeIEC1FkC4Yi22rA3" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../todo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\db-generator\some-service\data\repository\abst" />
+      <recent name="C:\xampp\htdocs\db-generator\some-service\core" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\db-generator\some-service\core\model" />
+      <recent name="C:\xampp\htdocs\db-generator" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="save" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/db-generator/some-service/api/entity/save">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="localhost" start_url="http://localhost/db-generator/some-service/api/entity/save">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.save" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ed10071-25f5-48fa-8e98-25666612d7e2" name="Default Changelist" comment="" />
+      <created>1570711864257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570711864257</updated>
+      <workItem from="1570711865336" duration="118420000" />
+      <workItem from="1571074706503" duration="60038000" />
+      <workItem from="1571403308954" duration="7458000" />
+      <workItem from="1571572785098" duration="10954000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../entity-generator/some-service/core/init.php</url>
+          <line>26</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../entity-generator/some-service/core/init.php</url>
+          <line>20</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../entity-generator/some-service/core/model/QueryBuilder.php</url>
+          <line>344</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/db_generator$Container_php.dat" NAME="Container.php Coverage Results" MODIFIED="1570819293883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
