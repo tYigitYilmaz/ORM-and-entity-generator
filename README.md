@@ -49,7 +49,7 @@ Rooter url provider:
 
 #### Available Methods
 
-- save();
+- save(); 
     ```  
        $foo = new Entity();
        $foo->variable = 'bar';
